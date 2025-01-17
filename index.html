@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>immersensive.</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>immersensive.</h1>
+    <div class="container">
+        <div class="intro">
+            <p id="typewriter-text" class="typewriter">Bienvenue dans Immersensive. Ada va vous guider au long de cette expérience sensorielle.</p>
+        </div>
+
+        <div class="poster" id="poster">
+            <img src="img/flyer/affiche.webp" alt="Bacchanight" loading="lazy">
+        </div>
+
+        <div class="gallery">
+            <div class="gallery-item" id="artwork1">
+                <h2>LE BAIN DE DIANE</h2>
+                <img src="img/tableau_bain_de_diane.webp" alt="Le Bain de Diane - Jean-Baptiste Camille Corot" class="gallery-image" loading="lazy">
+                <audio controls>
+                    <source src="audio/bain.mp3" type="audio/mpeg">
+                    Votre navigateur ne supporte pas la lecture audio.
+                </audio>
+                <a href="img/flyer/retranscription_bain.pdf" class="download-btn" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-external-link-alt"></i> Ouvrir la transcription
+                </a>
+            </div>
+
+            <div class="gallery-item" id="artwork2">
+                <h2>LA FOULAISON DU BLÉ EN CAMARGUE</h2>
+                <img src="img/tableau_foulaison_ble_camargue.webp" alt="La Foulaison du Blé en Camargue - Rosa Bonheur" class="gallery-image" loading="lazy">
+                <audio controls>
+                    <source src="audio/foulaison.mp3" type="audio/mpeg">
+                    Votre navigateur ne supporte pas la lecture audio.
+                </audio>
+                <a href="img/flyer/retranscription_foulaison.pdf" class="download-btn" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-external-link-alt"></i> Ouvrir la transcription
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="imageModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImg">
+        <div id="caption"></div>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="credits">
+                <span>Thomas Merlaud</span>
+                <span>Bartholomé Duteil</span>
+                <span>César Morel</span>
+                <span>Eva Garbuio Binaud</span>
+                <span>Adrian Delgado</span>
+                <span>Agathe Leblanc</span>
+                <span>Elyser Cellier</span>
+            </div>
+            <div class="footer-logos">
+                <img src="img/logo/logo_mmi.png" alt="Logo 1" loading="lazy">
+                <img src="img/logo/musba.png" alt="Logo 2" loading="lazy">
+            </div>
+            <p>© 2025 Immersensive. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
