@@ -41,8 +41,8 @@ L'expérience immersive sera présentée lors de la **Bacchanight 2025**, dans l
 
 Ce projet a été réalisé par :
 
-- **Thomas Merlaud**
 - **Bartholomé Duteil**
+- **Thomas Merlaud**
 - **César Morel**
 - **Eva Garbuio Binaud**
 - **Adrian Delgado**
