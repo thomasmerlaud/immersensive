@@ -1,4 +1,4 @@
-# Immersensive
+# immersensive.
 
 Bienvenue dans **Immersensive**, une expérience immersive sensorielle qui vous invite à redécouvrir deux œuvres phares de la salle “Paysages et peintures animalières” au **Musée des Beaux-Arts de Bordeaux (MusBa)** :
 
@@ -37,7 +37,7 @@ L'expérience immersive sera présentée lors de la **Bacchanight 2025**, dans l
 
 Ajoutez une capture d'écran ou une image pour illustrer votre projet :
 
-![Aperçu Immersensive](./img/flye/affiche.webp)
+![Aperçu Immersensive](img/flyer/affiche.webp)
 
 ## Crédits
 
