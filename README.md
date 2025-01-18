@@ -7,7 +7,7 @@ Bienvenue dans **immersensive**, une expérience immersive sensorielle qui vous 
 
 ## Présentation
 
-**Immersive** est un projet conçu dans le cadre de la **Bacchanight 2025** organisée par le MusBa. Ce projet, porté par des étudiants en MMI Bordeaux Montaigne, propose une approche sensorielle innovante grâce à :
+**Immersive** est un projet conçu dans le cadre de la **Bacchanight 2025** organisée par le MusBa. Ce projet, porté par des étudiants en MMI Bordeaux Montaigne, propose une expérience sensorielle pour redécouvrir les oeuvres avec :
 
 - **Des ambiances sonores** conçues pour accompagner chaque tableau, mettant en lumière leurs subtilités narratives.
 - **Un jeu de lumières programmable**, activé par des sons spécifiques pour créer une immersion totale face aux œuvres.
