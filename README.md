@@ -1,6 +1,6 @@
 # immersensive.
 
-Bienvenue dans **Immersensive**, une expérience immersive sensorielle qui vous invite à redécouvrir deux œuvres phares de la salle Paysages et peintures animalières au **Musée des Beaux-Arts de Bordeaux (MusBa)** :
+Bienvenue dans **immersensive**, une expérience immersive sensorielle qui vous invite à redécouvrir deux œuvres phares de la salle Paysages et peintures animalières au **Musée des Beaux-Arts de Bordeaux (MusBa)** :
 
 - **La foulaison du blé en Camargue** – Rosa Bonheur  
 - **Le bain de Diane** – Camille Corot
